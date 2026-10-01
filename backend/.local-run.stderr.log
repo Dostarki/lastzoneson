@@ -1,0 +1,39 @@
+INFO:     Started server process [25812]
+INFO:     Waiting for application startup.
+INFO:deadzone.accounts:Player account and session indexes established.
+INFO:deadzone.accounts:Loaded persistent storage from C:\Users\ozan\Documents\ChatGPT\lasthoodz 2\lastzhood-main\backend\.local_storage.json
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+INFO:     ('127.0.0.1', 59623) - "WebSocket /api/ws/muk74QH662PfRSPfdNGqmjLGr01cqRN-" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 59043) - "WebSocket /api/ws/ut2Pupo6wEE2uUn236PS5bxkriEb1tbQ" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 52943) - "WebSocket /api/ws/y3oK2Ohy-rN8Js0U5_znEXgPDvEa-u7t" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     ('127.0.0.1', 49355) - "WebSocket /api/ws/S5fabU3IFEc00i33c4mXt4Jgrzvv17rD" [accepted]
+INFO:     connection open
+INFO:     ('127.0.0.1', 49361) - "WebSocket /api/ws/sC3eE-4EfNgw57DPIAU9vyLhyagVOh_h" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 49377) - "WebSocket /api/ws/WSFAprSnpHRxLNM2MWF_9RS6YbEQBfc9" [accepted]
+INFO:     connection open
+INFO:     ('127.0.0.1', 49379) - "WebSocket /api/ws/c40EywDlI3DLqyqRBkY975RzLePVopns" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 49410) - "WebSocket /api/ws/sBoZkottYaLxowGWKUPr7xkDy_fr7kcA" [accepted]
+INFO:     connection open
+INFO:     ('127.0.0.1', 49420) - "WebSocket /api/ws/TFUmpkpviCIkuRgd7hBfh_CUqO06inHq" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
+INFO:     ('127.0.0.1', 49447) - "WebSocket /api/ws/ZCbb8XGvLWqpFszJQk12N0us4WezNALs" [accepted]
+INFO:     connection open
+INFO:     ('127.0.0.1', 51485) - "WebSocket /api/ws/l5-iqXCkzCr06ga01eW1DICdTqjQXXeg" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     connection closed
